@@ -1,0 +1,16 @@
+{
+  "name": "plato-reporter-console",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarrod Overson",
+  "license": "NONE",
+  "dependencies": {
+    "async": "^1.5.2",
+    "handlebars": "^4.0.5",
+    "handlebars-chalk": "^1.0.0"
+  }
+}
